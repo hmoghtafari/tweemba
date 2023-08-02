@@ -1,0 +1,2 @@
+import {tweetData} from "./data"
+
